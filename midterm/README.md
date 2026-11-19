@@ -62,8 +62,6 @@ Bu sonuçlar aynı **100 doğrulama görüntüsüne** aittir. 512 çıktılar or
 
 **[Proje raporunu aç](rapor/İzzetEfeDemirci_İHATeknolojileri.pdf)**
 
-Rapor, sağlanan PDF'nin değiştirilmemiş kopyasıdır.
-
 ```text
 midterm/
 ├── README.md
@@ -73,7 +71,7 @@ midterm/
 ├── requirements.txt
 ├── SHA256SUMS.txt
 ├── data/pix2pix_kaynak/     # Kullanılan ağ kodu ve özgün lisansı
-└── rapor/                  # Değiştirilmemiş proje PDF'si
+└── rapor/                  
 ```
 
 ## Sınırlar ve kaynaklar
