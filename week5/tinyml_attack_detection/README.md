@@ -47,4 +47,4 @@ Receiver ve detector sadece ESP32'de Ã§alÄ±ÅŸÄ±r (ESP32'nin sniffer API'
 
 Mevcut veriyle test doÄŸruluÄŸu **%98.5**. Model 321 parametreden oluÅŸur (1.3 KB).
 
-COM5 sunucu/detector icindir. Yeni logger CSV dosyasini train.py icindeki CSV yoluna yazin. Model mevcut kaynak deneyden gelir; kendi donaniminizda yeniden egitin.
+COM5 sunucu/detector icindir. Yeni logger CSV dosyasini train.py icindeki CSV yoluna yazin. Yeni olcumlerle modeli train.py kullanarak yeniden egitebilirsiniz.

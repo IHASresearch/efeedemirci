@@ -1,5 +1,4 @@
 # IHASresearch haftalik calismalar
-Kaynak: https://github.com/IHASresearch/tolgahan.keles
 week2: Uno/Nano + nRF24, AES-128 ECB, kanal 12, tek yon.
 week3: ESP32 server + ESP8266/ESP32 client, Wi-Fi/UDP olcum.
 week4: Uno/Nano + nRF24, AES-128 ECB, 8 kanal, 5 saniye/kanal, ACK payload ile cift yon.
@@ -17,5 +16,5 @@ Her sender/receiver ayri karta yuklenir; haftalar ayri deneylerdir.
 ## Sinirlar
 ECB ve sabit ornek anahtarlar egitim amaclidir. Oturum numarasi guvenli rastgelelik saglamaz.
 Hafta 4 log yuzdeleri AVR icin tam sayiya yuvarlanir. Mikro-saniye zaman damgasi millis ile 1 ms cozunurlukte uretilir.
-Hafta 5 modeli kaynak deneyden alinmistir; kendi olcumlerinizle yeniden egitim gerekir.
+Hafta 5 modeli model.h icinde bulunur; yeni olcumlerle egitim train.py ile yapilir.
 ESP32 kart paketi bu bilgisayarda bulunmadigi icin ESP32 derlemesi/donanım testi yapilmadi.
