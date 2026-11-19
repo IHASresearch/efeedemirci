@@ -1,0 +1,7 @@
+midterm/
+.venv/
+venv/
+__pycache__/
+*.pyc
+build/
+.env
